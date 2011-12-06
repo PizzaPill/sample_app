@@ -16,6 +16,11 @@ end
 
 group :test do 
   gem 'webrat'
+  gem 'autotest'
+  gem 'autotest-rails-pure'
+  gem 'test-unit'
+  gem 'redgreen'
+
 end
 
 # Gems used only for assets and not required
