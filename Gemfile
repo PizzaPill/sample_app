@@ -14,6 +14,11 @@ group :development, :test do
   gem 'rspec-rails'
 end
 
+group :development do
+	gem 'rspec-rails'
+	gem 'annotate'
+end
+
 group :test do 
   gem 'webrat'
   gem 'autotest'
