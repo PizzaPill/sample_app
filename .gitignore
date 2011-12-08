@@ -15,6 +15,7 @@
 /tmp
 *.swp
 *~
+webrat.log
 
 # Ignore binary files
 /bin/*
